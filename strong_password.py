@@ -1,3 +1,8 @@
+# Khyber Sen
+# SoftDev2 pd7
+# K15 -- Do you even list?
+# 2018-04-25
+
 from __future__ import print_function
 
 import random
