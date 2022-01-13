@@ -1,1 +1,1 @@
-# SoftDev - HW 15 - Simple List Comprehensions
+# Soft Dev 2 - HW 15 - Simple List Comprehensions
